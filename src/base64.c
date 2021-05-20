@@ -87,7 +87,7 @@
 /* Base64 encoder/decoder. Originally Apache file ap_base64.c
  */
 
-#include <base64.h>
+#include "base64/base64.h"
 #include <string.h>
 
 
